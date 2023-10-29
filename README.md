@@ -1,11 +1,10 @@
 # Todo-List
 this is a todo list app made from react i.e. ES6 and it stores the data in the localStorage making it a responsive and dynamic app
 
-How to run
 # Getting Started with Create React App
 
 write npx create-react-app todoList
-("It will create the development environment and will install all the node modules")
+("It will create the development environment and will install all the node modules") 
 write the code
 
 ### `npm start` to run the code 
